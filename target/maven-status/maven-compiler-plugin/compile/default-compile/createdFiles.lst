@@ -1,0 +1,10 @@
+com\piyalexercise\dao\EventLogDaoImpl.class
+com\piyalexercise\web\controller\LogEventsController.class
+com\piyalexercise\config\db\HsqlDataSource.class
+com\piyalexercise\dao\EventLogDaoImpl$EventMapper.class
+com\piyalexercise\config\SpringWebConfig.class
+com\piyalexercise\servlet3\MyWebInitializer.class
+com\piyalexercise\dao\EventLogDao.class
+com\piyalexercise\dao\EventLogDaoImpl$1.class
+com\piyalexercise\model\LogFileParameters.class
+com\piyalexercise\config\SpringRootConfig.class
