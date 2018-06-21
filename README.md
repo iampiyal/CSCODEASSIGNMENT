@@ -14,8 +14,8 @@ Template for a Spring 4 MVC using REST Web services + Embedded Database examples
 * The application once up, can  be accessed by http://localhost:8086/CodeExerciseHSQL/server/logevents
 * This requires a Servlet container provided by any of the web servers (e.g Tomcat)
 * The port number mentioned above has to be replaced by port number used in the system in which it is run
-* A local file path has been hardcoed in the application which has been used as the source. 
-* The user of this application has to replace the ath accordingly
+* A local file path has been hardcoded in the application which has been used as the source. 
+* The user of this application has to replace the path accordingly
 * LogEventsController is the main controller class.
 
 
