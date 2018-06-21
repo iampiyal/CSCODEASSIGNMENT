@@ -16,5 +16,6 @@ Template for a Spring 4 MVC using REST Web services + Embedded Database examples
 * The port number mentioned above has to be replaced by port number used in the system in which it is run
 * A local file path has been hardcoed in the application which has been used as the source. 
 * The user of this application has to replace the ath accordingly
+* LogEventsController is the main controller class.
 
 
